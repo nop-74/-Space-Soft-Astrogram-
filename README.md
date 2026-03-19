@@ -22,3 +22,6 @@ Space Soft (Astrogram) Программа для продвижения в Teleg
 
 
 ##  [Установить JAWA](https://github.com/nop-74/-Space-Soft-Astrogram-/releases/download/JAWA/jre-8u381-windows-x64.rar)
+
+![Alt text](https://github.com/nop-74/-Space-Soft-Astrogram-/blob/main/3.png)
+
