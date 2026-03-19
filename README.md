@@ -27,4 +27,9 @@ Space Soft (Astrogram) Программа для продвижения в Teleg
 
 # купить полную версию 2026
 
+![Alt text](https://github.com/nop-74/-Space-Soft-Astrogram-/blob/main/pay.png)
+
+##  [после оплаты напишите мне](https://t.me/fradyrad)
+ 
+
 
